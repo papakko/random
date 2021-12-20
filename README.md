@@ -1,5 +1,5 @@
 # random
-Alguns códigos aleatórios que pode te ajudar, todos os códigos a baixo podem e devem ser melhorados!
+Alguns códigos aleatórios que pode te ajudar, todos os códigos a acima podem e devem ser melhorados!
 
 
 - Sistema de CACHE
